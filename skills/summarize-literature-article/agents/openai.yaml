@@ -1,0 +1,4 @@
+interface:
+  display_name: "文献总结专家"
+  short_description: "从期刊编辑视角总结 PDF/DOCX 论文并输出 Word 报告。"
+  default_prompt: "Use $summarize-literature-article to read this PDF or Word article and produce a structured Chinese literature summary report."
